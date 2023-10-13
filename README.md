@@ -20,7 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-Full-stack Web Developer with a combined background of 20 years in business and finance, currently working in the tech industry for 1 year.
+Full-stack Web Developer with a combined background of 20 years in business and finance, currently working in the tech industry for 2 years.
 
 *   🌍  I'm based in Sao Paulo - Brazil
 *   🚀  I'm currently working on [web application software @ DEEPESG](http://deepesg.com)
